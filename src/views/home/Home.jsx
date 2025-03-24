@@ -22,7 +22,7 @@ const HomePage = () => {
       {/* Hero Section */}
       <header className="bg-white shadow">
         <div className="container mx-auto text-center py-8 px-4">
-          <h2 className="text-3xl font-semibold text-purple-500">CRUD using redux</h2>
+          <h2 className="text-3xl font-semibold text-purple-500">Attractive UI</h2>
           <p className="mt-2 text-gray-600">
             A complete demo showcasing how to interact with a RESTful API using various HTTP methods.
           </p>
