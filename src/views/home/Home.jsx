@@ -114,7 +114,7 @@ const HomePage = () => {
         <section id="overview" className="bg-white rounded-lg shadow-md p-6 mb-8">
           <h2 className="text-2xl font-semibold mb-4">About This Demo</h2>
           <p className="text-gray-700 mb-4">
-            This demo provides a hands-on experience with RESTful API integration. Each card above represents a fundamental operation.
+            This demo provides a hands-on experience with <span className='text-gray-900 font-bold'>RESTful API integration using redux</span>. Each card above represents a fundamental operation.
             Click on any button to test the functionality and observe the interaction between the frontend and the API backend.
           </p>
           <p className="text-gray-700">
